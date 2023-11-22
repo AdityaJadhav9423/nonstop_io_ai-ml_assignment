@@ -13,4 +13,8 @@ STEP 3:  The prediction result will be displayed below.
 
 # SCRAPING TOOL USED:
 parsehub<br>
-![parsehub 512x512](https://github.com/AdityaJadhav9423/nonstop_io_ai-ml_assignment/assets/130574249/8d9145f3-6799-448a-adfc-b7ec3a5e3f8d)
+<img src="https://github.com/AdityaJadhav9423/nonstop_io_ai-ml_assignment/assets/130574249/8d9145f3-6799-448a-adfc-b7ec3a5e3f8d" width="214" height="214">
+
+
+
+-->website which was scraped : [newsweek](https://www.newsweek.com/newsfeed)
